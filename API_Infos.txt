@@ -1,0 +1,38 @@
+A simple guide on APIs for frontend devs venturing into fullstack engineering.
+Let's break it down like we're talking to a high school grad ↓
+
+Understand What APIs Are 📚
+Think of APIs as waiters in a restaurant. You (the frontend) give the waiter (API) your order (request), they take it to the kitchen (backend), and bring back your food (response).
+
+Learn to Use APIs ⚒️
+Just like you need to know how to order food in a restaurant, you need to know how to make requests to APIs. This includes GET (read), POST (create), PUT (update), and DELETE (well, delete).
+Read REST API Principles for solid foundation.
+
+API Security 🔒
+It's important to keep your data safe when using APIs. 
+This is like not giving your credit card details to a shady waiter. Use tokens for authentication and always encrypt sensitive data. 
+Read more on OAuth and JWT Tokens for backend.
+
+APIs and Performance 📈
+Good API design can make your app faster and more efficient, like a well-organized kitchen can serve meals faster. Use efficient querying, caching, and load balancing. 
+Read more on performance optimization from big tech company blogs
+
+Practice 🔄
+The best way to get better at using APIs is to practice. Try building a simple app that uses a public API.
+Remember, even the best chef was beginner once.
+
+
+
+https://dev.to/wonuola_w/understanding-apis-for-beginners-3edp
+
+1. https://dev.to/ehuntober/understanding-restful-apis-a-beginners-guide-56j9
+2. https://dev.to/rembertdesigns/apis-for-beginners-with-examples-3amg
+3. https://dev.to/jacobe/understanding-apis-a-beginners-primer-1on6
+
+
+I have subscribed to weather APi .. username and password strod in google.
+https://www.weatherapi.com/
+
+My API Key:
+25dfb18be923416db02115619231206
+
